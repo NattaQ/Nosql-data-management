@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdef"
+  },
+  "FoodCategory": "CannedFruit",
+  "FoodItem": "Applesauce",
+  "Cals_per100grams": 62
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf0"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Acai",
+  "Cals_per100grams": 70
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf1"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Apple",
+  "Cals_per100grams": 52
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf2"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Applesauce",
+  "Cals_per100grams": 68
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf3"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Tamarind",
+  "Cals_per100grams": 239
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf4"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Tangerine",
+  "Cals_per100grams": 53
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf5"
+  },
+  "FoodCategory": "Fruits",
+  "FoodItem": "Watermelon",
+  "Cals_per100grams": 30
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf6"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Artichoke",
+  "Cals_per100grams": 47
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf7"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Arugula",
+  "Cals_per100grams": 25
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf8"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Asparagus",
+  "Cals_per100grams": 20
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdf9"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Aubergine",
+  "Cals_per100grams": 25
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdfa"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Beetroot",
+  "Cals_per100grams": 43
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdfb"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Bell Pepper",
+  "Cals_per100grams": 20
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdfc"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Turnips",
+  "Cals_per100grams": 28
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdfd"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Wasabi",
+  "Cals_per100grams": 109
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdfe"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Winter Squash",
+  "Cals_per100grams": 34
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097cdff"
+  },
+  "FoodCategory": "Vegetables",
+  "FoodItem": "Zucchini",
+  "Cals_per100grams": 17
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce00"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Grand Turkey Club",
+  "Cals_per100grams": 210
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce01"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Reuben",
+  "Cals_per100grams": 208
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce02"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Roast Beef Classic",
+  "Cals_per100grams": 234
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce03"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Roast Beef Max",
+  "Cals_per100grams": 234
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce04"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Whopper",
+  "Cals_per100grams": 231
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce05"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Zinger",
+  "Cals_per100grams": 256
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce06"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Zinger Burger",
+  "Cals_per100grams": 256
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce07"
+  },
+  "FoodCategory": "FastFood",
+  "FoodItem": "Poutine",
+  "Cals_per100grams": 227
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce08"
+  },
+  "FoodCategory": "Pizza",
+  "FoodItem": "BBQ Chicken Pizza",
+  "Cals_per100grams": 234
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce09"
+  },
+  "FoodCategory": "Pizza",
+  "FoodItem": "BBQ Pizza",
+  "Cals_per100grams": 224
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce0a"
+  },
+  "FoodCategory": "Pizza",
+  "FoodItem": "Beef Pizza",
+  "Cals_per100grams": 304
+},{
+  "_id": {
+    "$oid": "6384f97c0d9b86433097ce0b"
+  },
+  "FoodCategory": "Pizza",
+  "FoodItem": "Bianca Pizza",
+  "Cals_per100grams": 246
+},{
+  "_id": {
+    "$oid": "638500630d9b86433097ce0c"
+  },
+  "FoodCategory": "Fired",
+  "FoodItem": "French fries",
+  "Cals_per100grams": "312"
+},{
+  "_id": {
+    "$oid": "6386488cfd0a3bb2bcd3da77"
+  },
+  "FoodCategory": "Fired",
+  "FoodItem": "",
+  "Cals_per100grams": 295
+},{
+  "_id": {
+    "$oid": "638652e4e8b1f6e6e71b0589"
+  },
+  "FoodCategory": "Fired",
+  "FoodItem": "Fired Chicken",
+  "Cals_per100grams": 245
+},{
+  "_id": {
+    "$oid": "63875d0000bfa46bb2231dc1"
+  },
+  "FoodCategory": "Fired",
+  "FoodItem": "Fired pork",
+  "Cals_per100grams": 250
+},{
+  "_id": {
+    "$oid": "63877261611e0286479dd52a"
+  },
+  "FoodCategory": "Fired",
+  "FoodItem": "Crispy pork",
+  "Cals_per100grams": 250
+}]
