@@ -1,0 +1,30 @@
+FoodCategory,FoodItem,Cals_per100grams
+CannedFruit,Applesauce,62
+Fruits,Acai,70
+Fruits,Apple,52
+Fruits,Applesauce,68
+Fruits,Tamarind,239
+Fruits,Tangerine,53
+Fruits,Watermelon,30
+Vegetables,Artichoke,47
+Vegetables,Arugula,25
+Vegetables,Asparagus,20
+Vegetables,Aubergine,25
+Vegetables,Beetroot,43
+Vegetables,Bell Pepper,20
+Vegetables,Turnips,28
+Vegetables,Wasabi,109
+Vegetables,Winter Squash,34
+Vegetables,Zucchini,17
+FastFood,Grand Turkey Club,210
+FastFood,Reuben,208
+FastFood,Roast Beef Classic,234
+FastFood,Roast Beef Max,234
+FastFood,Whopper,231
+FastFood,Zinger,256
+FastFood,Zinger Burger,256
+FastFood,Poutine,227
+Pizza,BBQ Chicken Pizza,234
+Pizza,BBQ Pizza,224
+Pizza,Beef Pizza,304
+Pizza,Bianca Pizza,246
